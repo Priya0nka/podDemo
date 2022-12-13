@@ -1,6 +1,0 @@
-framework module Pods_UIShapes {
-  umbrella header "Pods-UIShapes-umbrella.h"
-
-  export *
-  module * { export * }
-}
